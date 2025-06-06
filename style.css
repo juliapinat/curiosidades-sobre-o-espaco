@@ -64,6 +64,8 @@ footer{
     margin-top: 30px;
 }
 
+/*responsividade*/
+
 @media (max-width: 600px) {
     nav, ul {
         flex-direction: column;
