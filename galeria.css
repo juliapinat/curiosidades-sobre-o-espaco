@@ -19,8 +19,10 @@ header h1 {
     color: #ffcc00;
 }
 
-h3{
-    color: #d1d1d1;
+.image h3 {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #ffcc00;
 }
 
 /* Galeria */
