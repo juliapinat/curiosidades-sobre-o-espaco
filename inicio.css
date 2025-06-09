@@ -16,7 +16,7 @@ header {
 
 header h1 {
     font-size: 2em;
-    color: #ffcc00;
+    color: #ffffff;
 }
 
 /* Seções de informação */
@@ -38,6 +38,6 @@ footer {
     background-color: #1a1a3d;
     padding: 10px;
     font-size: 1.2em;
-    color: #ffcc00;
+    color: #ffffff;
 }
 
