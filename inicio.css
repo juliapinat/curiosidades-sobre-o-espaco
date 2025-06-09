@@ -8,35 +8,31 @@ body {
     text-align: center;
 }
 
-.container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+header {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
 }
 
 h1 {
-    font-size: 3em;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    font-size: 2.5em;
+}
+
+.info {
+    margin: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 2em;
 }
 
 p {
-    font-size: 1.5em;
-}
-
-.btn {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 15px 30px;
     font-size: 1.2em;
-    color: white;
-    background: rgba(0, 0, 0, 0.6);
-    border: 2px solid white;
-    text-decoration: none;
-    border-radius: 10px;
-    transition: 0.3s;
 }
 
-.btn:hover {
-    background: rgba(255, 255, 255, 0.3);
+footer {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.7);
 }
