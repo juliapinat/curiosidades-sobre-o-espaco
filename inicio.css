@@ -4,7 +4,7 @@ body {
     background: url('https://source.unsplash.com/1600x900/?space,stars') no-repeat center center fixed;
     background-size: cover;
     font-family: Arial, sans-serif;
-    color: white;
+    color: rgb(44, 44, 44);
     text-align: center;
 }
 
