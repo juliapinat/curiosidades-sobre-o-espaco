@@ -36,6 +36,10 @@ nav, ul, li, a {
     font-weight: bold;
 }
 
+nav, ul, li, a:hover{
+    color: white
+}
+
 main {
     max-width: 800px;
     margin: 20px auto;
