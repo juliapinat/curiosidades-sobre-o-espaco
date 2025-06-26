@@ -33,7 +33,7 @@ header h1 {
             transform: scale(1.05);
         }
         .card img {
-            width: 100%; 
+            width: 90%; 
             height: auto; 
             max-height: 250px;
             object-fit: cover; 
