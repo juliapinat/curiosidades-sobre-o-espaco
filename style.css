@@ -60,12 +60,12 @@ main {
     color: #1c1851;
 }
 
-footer{
-    background-color: #111125;
-    color: white;
+footer {
+    background-color: #1a1a3d;
+    padding: 10px;
+    font-size: 1.2em;
+    color: #ffffff;
     text-align: center;
-    padding: 15px;
-    margin-top: 30px;
 }
 
 /*responsividade*/
