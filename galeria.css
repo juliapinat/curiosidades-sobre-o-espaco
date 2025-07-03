@@ -11,27 +11,11 @@ body {
 header {
     background-color: #1a1a3d;
     padding: 20px;
-    display: flex; 
-    align-items: center;
-    justify-content: flex-start;
-    padding: 1rem;
 }
 
 header h1 {
     font-size: 2em;
     color: #ffffff;
-}
-.voltar{
-    background-color: #4B0082;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 0.5rem 1rem; 
-    font-size: 16px;
-    cursor: pointer;
-}
-.voltar:hover{
-    background-color: #1c1851;
 }
   .gallery {
             display: grid;
