@@ -24,7 +24,7 @@ header h1 {
             padding: 10px;
         }
         .card {
-            background-color: #afafaf; 
+            background-color: #c9c9c9; 
             border-radius: 10px;
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0,0,0,0.3);
@@ -54,7 +54,7 @@ header h1 {
             font-size: 1em;
         }
         .gif{
-             background-color: white;
+             background-color: #c9c9c9;
              margin-bottom: 20px;
              padding: 15px;
              border-radius: 5px;
